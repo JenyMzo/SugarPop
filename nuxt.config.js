@@ -53,6 +53,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
+   /* eslint-disable */
     extend (config, { isDev, isClient }) {
       if (isDev && isClient) {
         const vueLoader = config.module.rules.find((loader) => loader.loader === 'vue-loader')
@@ -61,12 +62,12 @@ module.exports = {
           source: 'src'
         };
 
-        config.module.rules.push({
-          enforce: 'pre',
-          test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        })
+        // config.module.rules.push({
+        //   enforce: 'pre',
+        //   test: /\.(js|vue)$/,
+        //   loader: 'eslint-loader',
+        //   exclude: /(node_modules)/
+        // })
       }
     }
   }
