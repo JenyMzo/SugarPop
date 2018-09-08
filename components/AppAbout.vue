@@ -8,7 +8,7 @@
             ¡Hola!
           </h1>
           <p>
-            <span>Soy Andrés, tengo 27 años, vivo solo y toda mi comida la pido a domicilio, el día de la semana que más delicioso como es el domingo que mis papas me invitan a almorzar. Me gustaría llevar almuerzo a la oficina, pero nunca aprendí a cocinar, las veces que he intentado hacerlo, todo sale mal y termino comprando mi comida.</span>
+            <span>Soy Andrés, tengo 27 años, vivo solo y me encantan los dulces y postres, el día de la semana que más me emociona es el domingo que llevo mi sobrino a comer helado. Me gustaría intentar sorprenderlo con algo delicioso y diferente preparado por su tío, pero nunca aprendí a preparar nada, las veces que he intentado hacerlo, todo sale mal y termino comprando algo en la calle o a domicilio.</span>
           </p>
           <!-- <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut enim ad minim.

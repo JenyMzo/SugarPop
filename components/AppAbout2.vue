@@ -7,7 +7,7 @@
             Hola, ¿cómo estás?
           </h1>
           <p>
-            <span>Soy Tatiana, aprendí a cocinar de la mano de mi mamá, pero por falta de imaginación siempre termino cocinando lo mismo. Cuando quiero cocinar para mis amigos me piden que mejor pidamos a domicilio. 😰</span>
+            <span>Soy Tatiana, aprendí a preparar tortas deliciosas de la mano de mi mamá, pero por falta de imaginación siempre termino cocinando lo mismo. Cuando queremos celebrar algo especial con mis amigos ya no quieren mis pasteles y prefieren comprar algo en la repostería del supermercado. 😰</span>
           </p>
           <a class='primary-btn squire mx-auto mt-20' v-scroll-to="'#categories-area'" href='#'>Soy como Tatiana 🙈</a>
         </div>
