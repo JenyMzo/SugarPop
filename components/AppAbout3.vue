@@ -7,7 +7,7 @@
             ¡Hey!
           </h1>
           <p>
-            <span>Soy Juanita, soy desrrolladora web y me encanta cocinar, aunque trabajo desde mi casa, por lo demandante de mi trabajo, casi nunca tengo tiempo para salir a comprar ingredientes para preparar lo que me gusta. 😔 Por eso siempre termino comiendo lo que tenga a la mano o que pueda preparar rápido.</span>
+            <span>Soy Juanita, soy desrrolladora web y me encanta la repostería, aunque trabajo desde mi casa, por lo demandante de mi trabajo, casi nunca tengo tiempo para salir a comprar ingredientes para dejar volar mi imaginación preparando dulces y postres. 😔 Por eso siempre termino improvisando con algunas cosas que encuentro en mi refrigerador, pero por lo general las cosas no terminan con el sabor que desearía.</span>
           </p>
           <a class='primary-btn squire mx-auto mt-20' v-scroll-to="'#categories-area'" href='#'>Soy como Juanita 🙈</a>
         </div>
